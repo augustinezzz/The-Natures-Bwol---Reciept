@@ -130,5 +130,6 @@ td {
     padding-right: 33px;;
 }
 .con {
+    display: inline-table;
     background-color: #ffffff;
 }
